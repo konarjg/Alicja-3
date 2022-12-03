@@ -1,0 +1,15 @@
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\bin\Debug\netstandard2.0\Alicja.deps.json
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\bin\Debug\netstandard2.0\Alicja.dll
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\bin\Debug\netstandard2.0\Alicja.pdb
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\Alicja.csproj.AssemblyReference.cache
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\Alicja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\Alicja.AssemblyInfoInputs.cache
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\Alicja.AssemblyInfo.cs
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\Alicja.csproj.CoreCompileInputs.cache
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\Alicja.dll
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\refint\Alicja.dll
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\Alicja.pdb
+C:\Users\konis\Desktop\Apka dla Alicji\Alicja\Alicja\obj\Debug\netstandard2.0\ref\Alicja.dll
