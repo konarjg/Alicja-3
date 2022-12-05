@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+fd+Csh+N4J93k+NMebTI3r0OxMdpG8Wnvfe8fWbq4A5WqgknH5XYuz1lZX3EPH6ajX88/Q18EhYhnwWg2OFng==",
+  "dgSpecHash": "GTLtLYOhjzDcUi8Lm2a6X5rRhjdpUsKWo1WJk1smCoSY0KRxwXPdKrhJBmqqZebBUKKcQO343+SKBtG+Gwq+Og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\konis\\Desktop\\Apka dla Alicji\\Alicja\\Alicja\\Alicja.csproj",
+  "projectFilePath": "C:\\Users\\konis\\OneDrive\\Pulpit\\Apka dla Alicji\\Alicja\\Alicja\\Alicja.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\konis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\konis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

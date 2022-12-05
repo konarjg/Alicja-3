@@ -4,8 +4,8 @@
              x:Class="Alicja.MainPage">
 
     <StackLayout>
-        <Image Source="background.jpg" Aspect="AspectFill" Scale="0.9"/>
-        <Label x:Name="MessageUI" FontSize="30" Margin="0" TranslationY="-10" Padding="5" TextColor="White"></Label>
+        <Image x:Name="BackgroundUI" Aspect="AspectFit" Source="background.jpg" Scale="0.9" Margin="0" TranslationY="-10"/>
+        <Label x:Name="MessageUI" FontSize="30" Margin="0" TranslationY="-10" TextColor="White"></Label>
         <Button Text="Losuj" HeightRequest="100" WidthRequest="50" FontSize="32" Clicked="Button_Clicked"/>
 
     </StackLayout>

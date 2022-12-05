@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E78wi+RBRjK2rXkFnCC1NA+Y99NxGx5sZHapQmV1CWzQ8vUjLYtnp+nGRUGLvo3qFL+tb6HWY1tm57NJ1WsCSw==",
+  "dgSpecHash": "sTZpmJCPlYR8pwZWL3Y0Drxr0xpU45PD2qrR5AKWYiC1qeWs9mdLxa9svU0f3obqkqSX/MOOc2CLzyhiKzBIbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\konis\\Desktop\\Apka dla Alicji\\Alicja\\Alicja.Android\\Alicja.Android.csproj",
+  "projectFilePath": "C:\\Users\\konis\\OneDrive\\Pulpit\\Apka dla Alicji\\Alicja\\Alicja.Android\\Alicja.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\konis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\konis\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

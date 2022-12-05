@@ -15,7 +15,9 @@ namespace Alicja.Droid
         private void Init()
         {
             var messages = new List<string>();
+            var images = new List<string>();
             var message = "";
+            var image = "";
 
             using (var reader = new StreamReader(Assets.Open("messages.txt")))
             {
@@ -23,7 +25,13 @@ namespace Alicja.Droid
                     messages.Add(message);
             }
 
-            MainPage.Init(messages);
+            using (var reader = new StreamReader(Assets.Open("images.txt")))
+            {
+                while ((image = reader.ReadLine()) != null)
+                    images.Add(image);
+            }
+
+            MainPage.Init(messages, images);
         }
 
 
